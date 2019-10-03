@@ -1,0 +1,3 @@
+This is a secret place for secret things...
+
+Please add your private keys in here to keep them safe 🦖
