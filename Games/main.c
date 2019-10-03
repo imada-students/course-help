@@ -25,5 +25,14 @@ int main(){
 	} else {
 		printf("Wrong, his name is Alfred Pennyworth\n");
 	}
+	printf("Second question: What is Chandler’s last name in the sitcom Friends?\n");
+	scanf("%s", answer);
+	if (strcmp(answer, "Bing") == 0 || strcmp(answer, "bing") == 0){
+		printf("Correct! Good job\n");
+		points++;
+	} else {
+		printf("Wrong, his last name is Bing\n");
+	}
+	printf("You have %d points!\n", points);
 	return 0;
 }
