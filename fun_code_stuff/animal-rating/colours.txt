@@ -1,0 +1,13 @@
+green
+yellow
+red
+blue
+white
+black
+gray
+pink
+orange
+purple
+fuchsia
+cyan
+magenta
