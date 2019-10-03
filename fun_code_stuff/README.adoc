@@ -1,0 +1,3 @@
+A directory for random and fun code snippets
+
+all directories must end in "_fun"

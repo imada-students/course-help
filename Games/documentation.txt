@@ -1,0 +1,1 @@
+Gam should ask for users name and a number.
