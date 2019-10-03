@@ -3,3 +3,4 @@
 == Structure of the Repository
 
 TIP: Discuss repo structure and commit
+
