@@ -2,5 +2,28 @@
 
 == Structure of the Repository
 
-TIP: Discuss repo structure and commit
+The structure of the repository should be this:
 
+----
+.
+├── <COURCE-CODE>
+|   ├── Exam-notes
+|   ├── Lecture-notes
+|   ├── Tutorials
+|   ├── Code
+|   |    └── <PROGRAMMING LANGUAGE NAME>
+|   |         └── <PROGRAMMING PROJECT NAME>
+|   └── README.adoc
+...
+├── <META-NAME>
+└── README.adoc
+----
+
+The `<COURCE-CODE>` is uppercase and numbers only, the `README.adoc` file in each directory will have the name and
+description of the content.
+
+`<META-NAME>` is for folders like _latex_ that is general help, and not course specific.
+
+Each course can have multiple programming languages.
+
+*Remember: You must have permissions to place the content here. Slides etc might easily be copyrighted. And remember GDPR!*
