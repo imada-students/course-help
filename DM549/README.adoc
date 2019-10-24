@@ -1,0 +1,10 @@
+#DM549 - Diskrete metoder til datalogi
+
+##Formål
+For at opnå kursets formål er det læringsmålet for kurset, at den studerende demonstrerer evnen til at:
+
+ - formalisere udsagn på en korrekt logisk måde
+ - udtrykke sig kort og præcist
+ - bevise påstande ved hjælp af forskellige bevismetoder såsom direkte bevis, kontrapositionsbevis, modstridsbevis og induktionsbevis
+ - anvende begreber, resultater og teknikker lært i kurset på konkrete problemer, kendte såvel som nye
+ - argumentere fyldestgørende for sine løsninger
